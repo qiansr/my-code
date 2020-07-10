@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "hash": "http-server ./js_router",
+    "router": "http-server ./js_router",
     "history": "http-server ./history_router"
   },
   "author": "",
